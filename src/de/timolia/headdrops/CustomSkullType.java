@@ -9,24 +9,24 @@ public enum CustomSkullType {
 
 	// @formatter:off
 	
-    BLAZE("MHF_Blaze", "Blaze Head"),
+    BLAZE("MHF_Blaze", "Blaze Head", "blaze"),
     CAVE_SPIDER("MHF_CaveSpider", "Cave Spider Head", "cavespider"),
-    CHICKEN("MHF_Chicken", "Chicken Head"),
-    COW("MHF_Cow", "Cow Head"),
-    ENDERMAN("MHF_Enderman", "Enderman Head"),
-    GHAST("MHF_Ghast", "Ghast Head"),
+    CHICKEN("MHF_Chicken", "Chicken Head", "chicken"),
+    COW("MHF_Cow", "Cow Head", "cow"),
+    ENDERMAN("MHF_Enderman", "Enderman Head", "enderman"),
+    GHAST("MHF_Ghast", "Ghast Head", "ghast"),
     IRON_GOLEM("MHF_Golem", "Iron Golem Head", "irongolem", "golem"),
     MAGMA_CUBE("MHF_LavaSlime", "Magma Cube Head", "magmacube", "lava_slime", "lavaslime"),
     MUSHROOM_COW("MHF_MushroomCow", "Mushroom Cow Head", "mushroomcow", "mooshrom"),
     OCELOT("MHF_Ocelot", "Ocelot Head", "cat"),
-    PIG("MHF_Pig", "Pig Head"),
+    PIG("MHF_Pig", "Pig Head", "pig"),
     PIG_ZOMBIE("MHF_PigZombie", "Pig Zombie Head", "pigzombie", "pigman", "zombie_pigman", "zombiepigman"),
-    SHEEP("MHF_Sheep", "Sheep Head"),
-    SLIME("MHF_Slime", "Slime Head"),
-    SPIDER("MHF_Spider", "Spider Head"),
-    SQUID("MHF_Squid", "Squid Head"),
-    VILLAGER("MHF_Villager", "Villager Head"),
-    WITHER("MHF_Wither", "Wither Head");
+    SHEEP("MHF_Sheep", "Sheep Head", "sheep"),
+    SLIME("MHF_Slime", "Slime Head", "slime"),
+    SPIDER("MHF_Spider", "Spider Head", "spider"),
+    SQUID("MHF_Squid", "Squid Head", "squid"),
+    VILLAGER("MHF_Villager", "Villager Head", "villager"),
+    WITHER("MHF_Wither", "Wither Head", "wither");
 
     // @formatter:on
 
